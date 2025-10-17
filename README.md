@@ -1,8 +1,8 @@
 # 🌐 KS1 EMPIRE HUB
 
-> **One Door. One Login. One Future.**
+> **One Door. One Login. One Future.** 
 
-A free, open-source, nonprofit hub for the **KS1 Empire Foundation** — connecting 22 Web3, AI, and blockchain tools designed for **Africa and the global poor**.
+A free, open-source, nonprofit hub for the **KS1 Empire Group & Foundation** — connecting 22 Web3, AI, and blockchain tools designed for **Africa and the global poor**.
 
 No bank? No ID? No internet?  
 **No problem.**
@@ -11,7 +11,10 @@ No bank? No ID? No internet?
 
 ## ✅ WHAT IS THIS?
 
-This is the **central gateway** to 22 free, decentralized tools built by **KS1 Empire Foundation**:
+This is the **central gateway** to 22 free, decentralized tools that will be built by **KS1 Empire Group & Foundation**: future projects 
+
+ShineGPT V1 is done ( Free Crypto Knowledge)  Get ShineGPT through Shine-Agent888
+Shine-Agent888 V1 is done (Chief Marketing Officier)  https://shine-agent888.pages.dev
 
 | Project | Purpose |
 |--------|---------|
@@ -43,7 +46,7 @@ All tools are:
 - ✅ **No login needed**
 - ✅ **No KYC**
 - ✅ **No ads**
-- ✅ **Built for low-bandwidth, offline-first users**
+- ✅ **Built for low-bandwidth, low internet-first users**
 
 ---
 
